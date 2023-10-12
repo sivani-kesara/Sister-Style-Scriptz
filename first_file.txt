@@ -1,5 +1,5 @@
+Sivani :
 this is the first file to teach you about git commands
 
-
-
+Ananya:
 i learnt to clone a repo and opening txt file and will soon learn git commands to upload my changed files to the repo
